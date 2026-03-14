@@ -1,11 +1,8 @@
 # Species Distribution Models in Python
 ---
-See the **<a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/Python-species-distribution-modeling/">*tutorial link*</a>**.
+See the **<a target="_blank" rel="noopener noreferrer" href="https://daniel-furman.github.io/Python-species-distribution-modeling/">*tutorial link*</a>** for details.
 
 ---
-
-A short tutorial for spatial classification in Python through an example in species distribution modeling. Read on for more advanced applications of SDM modeling in ecological research, which, at heart, use the same basics as covered in the tutorial. 
-
 
 ## Examples of SDMs research outputs using Python
 
